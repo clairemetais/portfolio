@@ -212,15 +212,6 @@ a.nav-link:hover{
   object-fit:cover;
   object-position:top;
 }
-<<<<<<< HEAD
-
-.bg_footer{
-  background: rgb(48, 26, 26);
-  color:#f0efe8;
-}
-.fab{
-  color:#f0efe8;
-=======
 .bg_footer{
   background: #a0852d;
   height:75px;
@@ -229,5 +220,4 @@ a.nav-link:hover{
 i{
   font-size: 26px;
   
->>>>>>> 21de8f3 (lien)
 }
