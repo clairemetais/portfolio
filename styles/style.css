@@ -187,9 +187,10 @@ a.btn ,button.btn{
   background-color:#c36265;
   border-style: none;
 }
-a.btn:hover{
+a.btn:hover,button.btn:hover{
   background-color:#e8c46a;
 }
+
 a.nav-link{
   color:black;
 }
