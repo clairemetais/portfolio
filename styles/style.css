@@ -206,8 +206,11 @@ a.nav-link:hover{
  
 }
 
-.nav-top{
+.nav.bg-body-tertiary{
   background: #f0efe8;
+}
+li.nav-item {
+  margin-right: 2rem;
 }
 .bg_competence{
   background: url("../img/clock-976234_1280.jpg");
