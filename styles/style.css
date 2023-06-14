@@ -268,4 +268,8 @@ a.nav-link:hover {
   background: #a0852d;
 }
 
+/*card*/
+.card-img-top{
+  max-height:195px;
+}
 
